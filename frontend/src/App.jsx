@@ -11,8 +11,8 @@ import ProductForm from './components/ProductForm'
 import Products from './components/Products'
 import ProductEditForm from './components/ProductEditForm'
 
-// const url = 'http://localhost:3001/api/products/'
-const url = '/api/products/'
+const url = 'http://localhost:3001/api/products/'
+// const url = '/api/products/'
 
 const Home = () => {
   return (
